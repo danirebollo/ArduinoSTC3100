@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For arduino_stc3100
+#######################################
+
+#######################################
+# Library (KEYWORD3)
+#######################################
+
+arduino_stc3100	KEYWORD3		RESERVED_WORD
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+STC3100_Write	KEYWORD2
+STC3100_Read	KEYWORD2
+I2c_CustomInit	KEYWORD2
+
+STC3100_ReadByte	KEYWORD2
+STC3100_ReadWord	KEYWORD2
+STC3100_WriteByte	KEYWORD2
+STC3100_WriteWord	KEYWORD2
+STC3100_Startup	KEYWORD2
+STC3100_Powerdown	KEYWORD2
+ReadBatteryData	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
